@@ -24,4 +24,4 @@ This is the portfolio of all the 11 class assignments I have completeled in Mark
 #### Module 10: Text Analysis
 [A10 Vegas Resorts Text Mining](https://colab.research.google.com/drive/1Tg-8akeNfXOhjCpJWogJRXBSG7D6Pv7Z)
 #### Module 11: Using GitHub to Create my Assignment Portfolio
-[A11 Marketing my Customer Data Analytics skills](https://github.com/Nicole-Greenberg/MKTG3509-Analytics/edit/main/README.md)
+[A11 Marketing my Customer Data Analytics skills](https://github.com/Nicole-Greenberg/MKTG3509-Analytics)
